@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'rain.io',
+  name: 'rain',
   domain: 'https://www.notion.so/rainwen/Index-6a14f7b6542649399dc7879d9ba87955',
   author: 'Rain WEN',
 
@@ -18,7 +18,6 @@ export default siteConfig({
 
   // social usernames (optional)
   wechat: 'rainboowen',
-  github: 'rainboowen',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
